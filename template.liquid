@@ -1,0 +1,12 @@
+{%- assign snow_variables = content.snowdata | Split: ', ' -%}
+{
+   "User_Name": "{{ content.requested_for_id }}",
+   "User_Email_Id": "{{ content.requested_for_email }}",
+   "RITM_Number": "{{ content.requested_item_number }}",
+   "Request_Type": "{{ content.snow_variables.sh_request_for }}",
+   "Acount_Type":"{{ content.snow_variables.sh_account_type}}",
+   "Is_SecondLine_Support_team": "{{ content.snow_variables.sh_2nd_line_support}}",
+   "EC_Instance" : "{{ content.snow_variables.sh_organisational_unit }}",
+   "App_Read_Role_Only":"{{ content.snow_variables.sh_app_read_role_read_only_access_1 }}",
+   "Catalog_Role" : "{{ content.snow_variables.sh_catalog_role_1 }}"
+}

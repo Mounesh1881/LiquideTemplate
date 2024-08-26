@@ -1,0 +1,175 @@
+{
+    "sold_to_code": "70000801",
+    "requested_for_telephone_number": "",
+    "request_for_is_vip": "false",
+    "reference_number_one": "(RARS) Task - for organisation unit EC-SURE",
+    "quantity": "1",
+    "item_supplier_part_number": "true",
+    "item_shell_part_number": "true",
+    "info_previous": "true",
+    "duration": "",
+    "due_date": "",
+    "catalog_version": "42a72ee7c3c81a50b9105d55e001314f",
+    "catalog_item_description": "<p>This Catalog item needs to be submitted for requests related to Energy Components for Azure Oracle Database.</p>\n<p>UAM - Assistance on EC AZURE DB requests like - DB user account creation - individual and functional account, password reset, account unlock, modify user access.</p>\n<p><span style=\"font-family: verdana, geneva; font-size: 8pt;\">Database Related - Assistance on EC AZURE DB - Request to generate AWR report, Health checks post patch upgrade, Database profile/Role update, Change - Memory, RAM, SGA/PGA/database back up/dump etc.</span></p>",
+    "ice4u_source_id": "42a72ee7c3c81a50b9105d55e001314f",
+    "ice4u_target_id": "",
+    "requested_for_name": "Manoj Krishnamoorthi (INMKS9)",
+    "requested_for_email": "Manoj.Krishnamoorthi@shell.com",
+    "requested_for_account_name": "Manoj.Krishnamoorthi",
+    "requested_for_first_name": "Manoj",
+    "opened_by_email": "Jyothis.John@shell.com",
+    "correlation_id": "",
+    "requested_for_id": "INMKS9",
+    "requested_for_location_code": "SBOBNG/BNG-ECO",
+    "opened_at": "2024-08-22 09:50:04",
+    "task_number": "SCTASK10546844",
+    "opened_by_name": "Jyothis John (INJJON)",
+    "opened_by_id": "INJJON",
+    "task_description": "(RARS) Task - for organisation unit EC-SURE",
+    "requested_item_number": "RITM6299680",
+    "requested_for_last_name": "Krishnamoorthi",
+    "task_short_description": "(RARS) Task - for organisation unit EC-SURE",
+    "catalog_item_name": "Energy Components AZURE - Oracle Database Services",
+    "variables": [
+      {
+        "name": "requested_for",
+        "question": "Open on behalf of this user",
+        "answer": "Manoj Krishnamoorthi (INMKS9)"
+      },
+      {
+        "name": "estimated_delivery_date",
+        "question": "Estimated Delivery Date",
+        "answer": "2024-09-02 08:05:36"
+      },
+      {
+        "name": "business_justification",
+        "question": "Provide the Business Justification",
+        "answer": "Create user account for non-support user"
+      },
+      {
+        "name": "calc_estimated_delivery_date",
+        "question": "Calculated Estimated Delivery Date ",
+        "answer": "2024-09-02 08:05:36"
+      },
+      {
+        "name": "sh_type_of_requests",
+        "question": "Type of Requests",
+        "answer": "User Access Management (UAM)"
+      },
+      {
+        "name": "sh_account_type",
+        "question": "Account Type",
+        "answer": "Individual"
+      },
+      {
+        "name": "sh_2nd_line_support",
+        "question": "Part of Energy Components 2nd Line Support Team",
+        "answer": "No"
+      },
+      {
+        "name": "sh_request_for",
+        "question": "Request For",
+        "answer": "Add"
+      },
+      {
+        "name": "sh_role",
+        "question": "Role",
+        "answer": "undefined"
+      },
+      {
+        "name": "sh_app_read_role_read_only",
+        "question": "App Read Role (Read Only Access)",
+        "answer": "false"
+      },
+      {
+        "name": "sh_catalog_role",
+        "question": "Catalog Role (System Database Objects)",
+        "answer": "false"
+      },
+      {
+        "name": "sh_db_audit_role",
+        "question": "DB Audit Role (Audit Trial)",
+        "answer": "false"
+      },
+      {
+        "name": "sh_role_1",
+        "question": "Role",
+        "answer": "undefined"
+      },
+      {
+        "name": "sh_app_read_role_read_only_access_1",
+        "question": "App Read Role (Read Only Access)",
+        "answer": "true"
+      },
+      {
+        "name": "sh_catalog_role_1",
+        "question": "Catalog Role (System Database Objects)",
+        "answer": "true"
+      },
+      {
+        "name": "sh_operating_environment",
+        "question": "Operating Environment",
+        "answer": "undefined"
+      },
+      {
+        "name": "sh_production",
+        "question": "Production",
+        "answer": "false"
+      },
+      {
+        "name": "sh_acceptance",
+        "question": "Acceptance",
+        "answer": "false"
+      },
+      {
+        "name": "sh_test",
+        "question": "Test",
+        "answer": "true"
+      },
+      {
+        "name": "sh_organisational_unit",
+        "question": "Organisational Unit",
+        "answer": "EC-SURE"
+      },
+      {
+        "name": "sh_request_type",
+        "question": "Request Type",
+        "answer": "undefined"
+      },
+      {
+        "name": "sh_password_reset",
+        "question": "Password reset",
+        "answer": "false"
+      },
+      {
+        "name": "sh_account_unlock",
+        "question": "Account Unlock",
+        "answer": "false"
+      }
+    ],
+    "snow_variables": {
+      "requested_for": "Manoj Krishnamoorthi (INMKS9)",
+      "estimated_delivery_date": "2024-09-02 08:05:36",
+      "business_justification": "Create user account for non-support user",
+      "calc_estimated_delivery_date": "2024-09-02 08:05:36",
+      "sh_type_of_requests": "User Access Management (UAM)",
+      "sh_account_type": "Individual",
+      "sh_2nd_line_support": "No",
+      "sh_request_for": "Add",
+      "sh_role": "undefined",
+      "sh_app_read_role_read_only": "false",
+      "sh_catalog_role": "false",
+      "sh_db_audit_role": "false",
+      "sh_role_1": "undefined",
+      "sh_app_read_role_read_only_access_1": "true",
+      "sh_catalog_role_1": "true",
+      "sh_operating_environment": "undefined",
+      "sh_production": "false",
+      "sh_acceptance": "false",
+      "sh_test": "true",
+      "sh_organisational_unit": "EC-SURE",
+      "sh_request_type": "undefined",
+      "sh_password_reset": "false",
+      "sh_account_unlock": "false"
+    }
+  }
